@@ -1,0 +1,42 @@
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .table-container {
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .table-header {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .table-body .table-row {
+    transition: background-color 0.3s;
+  }
+  
+  .table-body .table-row:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .button-create {
+    margin-bottom: 20px;
+  }
+  
+  .button-edit {
+    margin-right: 8px;
+  }
+  
+  .modal-header {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .modal-content {
+    padding: 20px;
+  }
